@@ -1,8 +1,8 @@
 # Proyecto Contador de personas - CURSO DE DEEP LEARNING IEEE
-AUTOR: Jean Carlos León Armijo
-ESTUDIANTE DE: Universidad Técnica de Ambato
-FECHA: 08/02/2024
-PAÍS/CIUDAD: ECUADOR - AMBATO
+- AUTOR: Jean Carlos León Armijo
+- ESTUDIANTE DE: Universidad Técnica de Ambato
+- FECHA: 08/02/2024
+- PAÍS/CIUDAD: ECUADOR - AMBATO
 
 DESCRIPCIÓN COMPLETA DEL PROGRAMA:
 1. Como inicio describo primero el primer script `yolov5MultiplePolygonEl.py` programa utiliza varias bibliotecas y módulos para contar objetos en un video y generar un nuevo video con anotaciones de las detecciones. Inicialmente, se importan las bibliotecas necesarias, como numpy, supervision, torch y argparse. Luego, se definen las rutas de entrada y salida del video. La clase CountObject se encarga de inicializar los atributos de la instancia, incluyendo la carga del modelo YOLOv5 utilizando la biblioteca Ultralytics, la creación de una paleta de colores para resaltar objetos detectados, y la definición de polígonos que delimitan las zonas de interés en el video. Se utilizan anotadores de zona y de caja para visualizar y resaltar estas regiones en el video. La función process_frame se encarga de procesar cada fotograma del video, realizando la detección de objetos, filtrando las detecciones y agregando anotaciones visuales a las zonas de interés y cajas delimitadoras. Finalmente, el método process_video inicia el proceso de procesamiento del video utilizando la función process_video de la biblioteca supervision. Cuando el script se ejecuta como un programa principal, se crea una instancia de la clase CountObject con las rutas de entrada y salida del video, y se llama al método process_video para iniciar el procesamiento del video.
