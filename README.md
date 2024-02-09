@@ -22,6 +22,12 @@ DESCRIPCIÓN COMPLETA DEL PROGRAMA:
 1. Clona este repositorio:
 git clone https://github.com/jeancarlosleon21/proyecto_1.git
 
+Se necesitara la parte de un archivo que contiene los pesos de algunas variables descargarse de este repositorio:
+https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+
+ademas de necesitar el archivo que se descargue de:
+yolov5x6 en el caso de no descargarse por consola
+
 
 2. Instala las dependencias:
 pip install -r requirements.txt
