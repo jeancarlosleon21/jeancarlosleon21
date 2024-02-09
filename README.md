@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 
 ## Uso
-Ejecute el script `detector_personas_id4.py` con los argumentos necesarios:
+Ejecute el script `detector_personas_id4.py` con los argumentos necesarios, siendo necesario tener el primer script que es `yolov5MultiplePolygonEl.py` ya que se importa la clase "CountObject":
 
 ```
 python detector_personas_id4.py -i video_entrada.mp4 -o resultado.mp4
@@ -72,11 +72,10 @@ if __name__ == "__main__":
 
 [![IMAGEN RESULTADOS DEL VIDEO 1](https://github.com/jeancarlosleon21/proyecto_1/blob/main/Capturas_resultados/imagen_captura1.png)]
 
-
 [![IMAGEN RESULTADOS CON LA INTERFAZ ](https://github.com/jeancarlosleon21/proyecto_1/blob/main/Capturas_resultados/imagen_captura2.PNG)]
 
 [VIDEO DE EXPLICACIÓN EN ONEDRIVE](https://utaedu-my.sharepoint.com/:v:/g/personal/jleon4257_uta_edu_ec/EZ-jV6BLxXxBoNOMkDKXkkMBvvkkmFokkMhN2i060239Iw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iZnLhm)
 
-Se agrega el video de los resultados obtenidos con el video pasado por el algoritmo:
+- Se agrega el video de los resultados obtenidos con el video pasado por el algoritmo:
 [VIDEO DE RESULTADO COMPLETO](https://utaedu-my.sharepoint.com/:v:/g/personal/jleon4257_uta_edu_ec/EUXny1qnT0ZKrLHok3dQ5nsBL2RGoIUv8nk4tcrV6aKLPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uvwiNl)
 
