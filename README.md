@@ -21,6 +21,9 @@ DESCRIPCIÓN COMPLETA DEL PROGRAMA:
 - PIL (Python Imaging Library)
 - filedialog
 - Ultralytics (yolov5)
+- Tkinter
+- Subprocess
+- threading
 
 ## Instalación
 
