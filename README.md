@@ -61,4 +61,7 @@ if __name__ == "__main__":
 
 ## Explicación y funcionamiento del programa.
 
-[![VIDEO](https://)](https://youtu.be/j6s20xbPs9g)
+[![IMAGEN RESULTADOS DEL VIDEO 1](https://github.com/jeancarlosleon21/proyecto_1/blob/main/Capturas_resultados/imagen_captura1.png)]
+[![IMAGEN RESULTADOS CON LA INTERFAZ ]([https://github.com/jeancarlosleon21/proyecto_1/blob/main/Capturas_resultados/imagen_captura2.PNG)]
+
+[VIDEO DE EXPLICACIÓN EN ONEDRIVE](https://utaedu-my.sharepoint.com/:v:/g/personal/jleon4257_uta_edu_ec/EZ-jV6BLxXxBoNOMkDKXkkMBvvkkmFokkMhN2i060239Iw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iZnLhm)
