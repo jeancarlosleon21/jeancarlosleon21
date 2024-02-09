@@ -40,7 +40,11 @@ pip install -r requirements.txt
 
 ## Uso
 Ejecute el script `detector_personas_id4.py` con los argumentos necesarios:
+
+```
 python detector_personas_id4.py -i video_entrada.mp4 -o resultado.mp4
+
+```
 
 "Cabe recalcar que se debera realizar una modificación en el script, cambiandolo en la entrada y salida de los videos y ubicando las siguientes lineas"
 - Codigo de python:
