@@ -72,3 +72,7 @@ if __name__ == "__main__":
 [![IMAGEN RESULTADOS CON LA INTERFAZ ](https://github.com/jeancarlosleon21/proyecto_1/blob/main/Capturas_resultados/imagen_captura2.PNG)]
 
 [VIDEO DE EXPLICACIÓN EN ONEDRIVE](https://utaedu-my.sharepoint.com/:v:/g/personal/jleon4257_uta_edu_ec/EZ-jV6BLxXxBoNOMkDKXkkMBvvkkmFokkMhN2i060239Iw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iZnLhm)
+
+Se agrega el video de los resultados obtenidos con el video pasado por el algoritmo:
+[VIDEO DE RESULTADO COMPLETO](https://utaedu-my.sharepoint.com/:v:/g/personal/jleon4257_uta_edu_ec/EUXny1qnT0ZKrLHok3dQ5nsBL2RGoIUv8nk4tcrV6aKLPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uvwiNl)
+
